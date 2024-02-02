@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manik</h1>
-<h3 align="center">Budding Engineer | AI-ML Enthusiast | Cross Platform Mobile Application Developer</h3> 
+<h3 align="center">Budding Engineer | AI-ML Enthusiast | Cross Platform Mobile Application Developer</h3>
 <img align="right" alt="CodeBase Error 404 Found-Get Lost" width="400" src="https://github.com/manikpandita23/manikpandita23/assets/115569552/81a07eab-af9a-4e14-a1ba-128581efe913">
-
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=manikpandita23" alt="manikpandita23" /></a> </p>
 
 - 🔭 I’m currently working on **Microservices Development**
 
