@@ -3,7 +3,7 @@
 <img align="right" alt="CodeBase Error 404 Found-Get Lost" width="400" src="https://github.com/manikpandita23/manikpandita23/assets/115569552/81a07eab-af9a-4e14-a1ba-128581efe913">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikpandita23" alt="manikpandita23" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=manikpandita23" alt="manikpandita23" /></a> </p>
 
 - 🔭 I’m currently working on **Microservices Development**
 
