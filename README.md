@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manik</h1>
 <h3 align="center">Budding Engineer | AI-ML Enthusiast | Cross Platform Mobile Application Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikpandita23&label=Profile%20views&color=0e75b6&style=flat" alt="manikpandita23" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikpandita23" alt="manikpandita23" /></a> </p>
 
 - 🔭 I’m currently working on **Microservices Development**
 
+- 🌱 I’m currently learning **Advanced Machine Learning**
+
+- 👯 I’m looking to collaborate on **API Integration and Machine Learning**
+
+- 💬 Ask me about **APIs, Flutter, Docker, SQL**
+
 - 📫 How to reach me **manikpandita23@gmail.com**
+
+- ⚡ Fun fact **Eat -> Sleep -> Code -> Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
