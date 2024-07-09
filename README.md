@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manik</h1>
-<h3 align="center">Budding Engineer | AI-ML Enthusiast | Mobile Application Developer</h3>
+<h3 align="center">Budding Engineer | AI-ML Enthusiast | Software Developer | Mobile Application Developer</h3>
 <img align="right" alt="CodeBase Error 404 Found-Get Lost" width="400" src="https://github.com/manikpandita23/manikpandita23/assets/115569552/81a07eab-af9a-4e14-a1ba-128581efe913">
 
-- 🔭 I’m currently working on **Microservices Development**
+- 🔭 I’m currently working on **Microservices Development and React**
 
 - 🌱 I’m currently learning **Advanced Machine Learning**
 
