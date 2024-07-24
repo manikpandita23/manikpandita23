@@ -13,7 +13,8 @@
 - 📫 How to reach me **manikpandita23@gmail.com**
 
 - ⚡ Fun fact **Eat -> Sleep -> Code -> Repeat**
-- Checkout my Portfolio: https://manikpandita23.github.io/ManikDevfolio/
+
+**Checkout my Portfolio:** https://manikpandita23.github.io/ManikDevfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
