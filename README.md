@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikpandita23&show_icons=true&locale=en" alt="manikpandita23" /></p>
 <div align="center">
-<h3 align="center">Profile Visits </h3> <img src="https://profile-counter.glitch.me/darshansrc/count.svg?"  />
+<h3 align="center">Profile Visits </h3> <img src="https://profile-counter.glitch.me/manikpandita23/count.svg?"  />
 </div>
 
