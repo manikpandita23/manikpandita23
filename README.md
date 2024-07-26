@@ -32,4 +32,3 @@
 <div align="center">
 <h3 align="center">Profile Visits </h3> <img src="https://profile-counter.glitch.me/manikpandita23/count.svg?"  />
 </div>
-<a href=https://streak-stats.demolab.com/?user=manikpandita23"></a>
