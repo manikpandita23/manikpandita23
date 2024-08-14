@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Microservices Architecture and React**
 
-- 🌱 I’m currently learning **AI-ML infrastructure**
+- 🌱 I’m currently learning **AI-ML Infrastructure**
 
 - 👯 I’m looking to collaborate on **Web Development with ReactJS and Tailwind CSS, API Integration with Microservices**
 
