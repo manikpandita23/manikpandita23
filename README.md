@@ -28,8 +28,8 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manikpandita23&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manikpandita23&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=manikpandita23&icon=0&color=0)](https://visitcount.itsvg.in)
