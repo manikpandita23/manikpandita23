@@ -2,17 +2,17 @@
 <h3 align="center">Budding Engineer | AI-ML Infrastructure | Software Developer | Mobile Application Developer</h3>
 <img align="right" alt="CodeBase Error 404 Found-Get Lost" width="400" src="https://github.com/manikpandita23/manikpandita23/assets/115569552/81a07eab-af9a-4e14-a1ba-128581efe913">
 
-- 🔭 I’m currently working on **Microservices Architecture and React**
+- 🔭 I’m currently focused on **Microservices Architecture** and **React Development**.
 
-- 🌱 I’m currently learning **AI-ML Infrastructure**
+- 🌱 I’m expanding my knowledge in **AI/ML Infrastructure**.
 
-- 👯 I’m looking to collaborate on **Web Development with ReactJS and Tailwind CSS, API Integration with Microservices**
+- 👯 I’m open to collaborate on **Web Development** using **ReactJS** and **Tailwind CSS**, as well as **API Integration** within **Microservices**.
 
-- 💬 Ask me about **Application Programmable Interfaces(API), Payment Integration in application, Native Applications, Libraries and Frameworks**
+- 💬 Feel free to ask me about **Application Programming Interfaces (API)**, **Payment Integration**, **Native Application Development**, and various **Libraries and Frameworks**.
 
-- 📫 How to reach me **manikpandita23@gmail.com**
+- 📫 You can reach me at: **[manikpandita23@gmail.com](mailto:manikpandita23@gmail.com)**.
 
-- ⚡ Fun fact **Eat -> Sleep -> Code -> Repeat**
+- ⚡ Fun fact: **Eat -> Sleep -> Code -> Repeat.**
 
 **Checkout my Portfolio:** https://manikpandita23.github.io/ManikDevfolio/
 
