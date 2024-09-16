@@ -10,7 +10,7 @@
 
 - 💬 Feel free to ask me about **Application Programming Interfaces (API)**, **Payment Integration**, **Native Application Development**, and various **Libraries and Frameworks**.
 
-- 📫 You can reach me at: **[manikpandita23@gmail.com](mailto:manikpandita23@gmail.com)**.
+- 📫 You can reach me at: **[manikpandita23@gmail.com](mailto:manikpandita23@gmail.com)**
 
 - ⚡ Fun fact: **Eat -> Sleep -> Code -> Repeat.**
 
