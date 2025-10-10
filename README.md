@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **Eat -> Sleep -> Code -> Repeat.**
 
-**Checkout my Portfolio:** https://manikpandita23.github.io/ManikDevfolio/
+**Checkout my Portfolio:** https://manik-devfolio.vercel.app
 
 
 
